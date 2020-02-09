@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp2.2/Calculadora.cs \
+obj\Debug\netcoreapp2.2/CalculadoraGrpc.cs: protos/calculadora.proto

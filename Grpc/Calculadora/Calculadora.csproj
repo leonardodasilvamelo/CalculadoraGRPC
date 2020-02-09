@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+<ItemGroup>
+    <Protobuf Include="**/*.proto" />
+  </ItemGroup>
+<ItemGroup>
+  <None Remove="protos\calculadora.proto" />
+</ItemGroup>
+<ItemGroup>
+  <PackageReference Include="Google.Protobuf" Version="3.11.3" />
+  <PackageReference Include="Grpc.Core" Version="2.27.0" />
+  <PackageReference Include="Grpc.Tools" Version="2.27.0">
+    <PrivateAssets>all</PrivateAssets>
+    <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+  </PackageReference>
+</ItemGroup>
+
+</Project>

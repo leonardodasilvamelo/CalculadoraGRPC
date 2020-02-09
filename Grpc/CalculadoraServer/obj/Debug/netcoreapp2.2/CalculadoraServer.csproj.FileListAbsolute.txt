@@ -1,0 +1,14 @@
+D:\Projetos\GRPC_estudo\grpc2\Grpc\CalculadoraServer\bin\Debug\netcoreapp2.2\CalculadoraServer.dll
+D:\Projetos\GRPC_estudo\grpc2\Grpc\CalculadoraServer\bin\Debug\netcoreapp2.2\Calculadora.dll
+D:\Projetos\GRPC_estudo\grpc2\Grpc\CalculadoraServer\obj\Debug\netcoreapp2.2\CalculadoraServer.csprojAssemblyReference.cache
+D:\Projetos\GRPC_estudo\grpc2\Grpc\CalculadoraServer\obj\Debug\netcoreapp2.2\CalculadoraServer.csproj.CoreCompileInputs.cache
+D:\Projetos\GRPC_estudo\grpc2\Grpc\CalculadoraServer\obj\Debug\netcoreapp2.2\CalculadoraServer.AssemblyInfoInputs.cache
+D:\Projetos\GRPC_estudo\grpc2\Grpc\CalculadoraServer\obj\Debug\netcoreapp2.2\CalculadoraServer.AssemblyInfo.cs
+D:\Projetos\GRPC_estudo\grpc2\Grpc\CalculadoraServer\bin\Debug\netcoreapp2.2\CalculadoraServer.deps.json
+D:\Projetos\GRPC_estudo\grpc2\Grpc\CalculadoraServer\bin\Debug\netcoreapp2.2\CalculadoraServer.runtimeconfig.json
+D:\Projetos\GRPC_estudo\grpc2\Grpc\CalculadoraServer\bin\Debug\netcoreapp2.2\CalculadoraServer.runtimeconfig.dev.json
+D:\Projetos\GRPC_estudo\grpc2\Grpc\CalculadoraServer\bin\Debug\netcoreapp2.2\CalculadoraServer.pdb
+D:\Projetos\GRPC_estudo\grpc2\Grpc\CalculadoraServer\bin\Debug\netcoreapp2.2\Calculadora.pdb
+D:\Projetos\GRPC_estudo\grpc2\Grpc\CalculadoraServer\obj\Debug\netcoreapp2.2\CalculadoraServer.csproj.CopyComplete
+D:\Projetos\GRPC_estudo\grpc2\Grpc\CalculadoraServer\obj\Debug\netcoreapp2.2\CalculadoraServer.dll
+D:\Projetos\GRPC_estudo\grpc2\Grpc\CalculadoraServer\obj\Debug\netcoreapp2.2\CalculadoraServer.pdb
